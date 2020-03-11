@@ -12,5 +12,10 @@
 		<li>MYSQL</li>
 		<li>MongoDB</li>
 	</ul>
+	<ul>
+		<li>JPA</li>
+		<li>MYBatis</li>
+		<li>Hibernate</li>
+	</ul>
 </body>
 </html>
