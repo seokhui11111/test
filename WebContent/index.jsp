@@ -22,5 +22,10 @@
 		<li>AOP</li>
 		<li>트랜잭션</li>
 	</ul>
+	<ul>
+		<li>스프링MVC</li>
+		<li>mybatis.xml</li>
+		<li>porm.xml</li>
+	</ul>
 </body>
 </html>
